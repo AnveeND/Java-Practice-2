@@ -8,7 +8,7 @@ public class dbconnection {
 	final static String driverString = "com.mysql.cj.jdbc.Driver";
 	final static String url="jdbc:mysql://localhost:3306/reg";
 	final static String user="root";
-	final static String password="hello@123";
+	final static String password="hello@12";
 
 
 
