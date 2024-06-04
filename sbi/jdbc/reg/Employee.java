@@ -8,8 +8,8 @@ import java.sql.Statement;
 public class Employee {
 	
 	final static String user = "root";
-	final static String pass = "hello@123";
-	final static String url = "jdbc:mysql://localhost:3306/tssm";
+	final static String pass = "hello@12";
+	final static String url = "jdbc:mysql://localhost:3306/dmname";
 	final static String driver = "com.mysql.cj.jdbc.Driver";
 	
 	static String insert = "insert into tblEmployee values (101,'Anvee','Pune',20000000)";
